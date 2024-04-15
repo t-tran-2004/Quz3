@@ -1,7 +1,6 @@
 # Factorial
 
-f(x) = x!
-f(n) = n * (n - 1) * (n - 2) * (n - 3) * ... * 3 * 2 * 1
+f(x) = x!, f(n) = n * (n - 1) * (n - 2) * (n - 3) * ... * 3 * 2 * 1, n = 10
 
 ```assembly
 section .text
