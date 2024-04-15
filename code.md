@@ -1,3 +1,9 @@
+# Factorial
+
+f(x) = x!
+f(n) = n * (n - 1) * (n - 2) * (n - 3) * ... * 3 * 2 * 1
+
+```assembly
 section .text
 	global _start
 
@@ -19,3 +25,4 @@ exit:
 
 section .data
 	num EQU 10
+```
